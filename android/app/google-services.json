@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426912440792",
+    "project_id": "xsafe-1aea8",
+    "storage_bucket": "xsafe-1aea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426912440792:android:15b00c8e4202268d2112ad",
+        "android_client_info": {
+          "package_name": "com.example.safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426912440792-8va8nd54f3e6uttos0vpgtku9fmog5u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xyeTUGHbY-F4DRqh7k4kTg_w59VCG20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426912440792-8va8nd54f3e6uttos0vpgtku9fmog5u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
